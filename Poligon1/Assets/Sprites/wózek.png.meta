@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: c231acdeedb086e47870203467247be1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "w\xF3zek_0"
+    21300002: "w\xF3zek_1"
+    21300004: "w\xF3zek_2"
+    21300006: "w\xF3zek_3"
+    21300008: "w\xF3zek_4"
+    21300010: "w\xF3zek_5"
+    21300012: "w\xF3zek_6"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "w\xF3zek_0"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 685
+        width: 648
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "w\xF3zek_1"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 691
+        width: 316
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "w\xF3zek_2"
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 695
+        width: 314
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "w\xF3zek_3"
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 697
+        width: 341
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "w\xF3zek_4"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 93
+        width: 744
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "w\xF3zek_5"
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 93
+        width: 751
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "w\xF3zek_6"
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 93
+        width: 649
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
