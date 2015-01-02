@@ -2,11 +2,8 @@
 using System.Collections;
 
 public class NewBehaviourScript : MonoBehaviour {
-
-	// Use this for initialization
+	
 	public float maxSpeed = 10f;
-	//bool facingRight = false;
-	//bool facingUp = false;
 	Animator anim;
 	
 	void Start () {
@@ -22,29 +19,18 @@ public class NewBehaviourScript : MonoBehaviour {
 		
 		anim.SetFloat("SpeedH", move);
 		anim.SetFloat("SpeedV", move1);
-		/*
-		if (move1 > 0 && !facingRight)
-			Flip();
-		else if (move1 < 0 && facingRight) 
-			Flip();
-		
-		if (move > 0 && !facingUp)
-			FlipV();
-		else if (move < 0 && facingUp) 
-			FlipV();*/
 	}
-	/*
-	void Flip() {
-		facingRight = !facingRight;
-		
+
+	void OnTriggerEnter2D (Collider2D other) {
+		if (other.gameObject.tag == "PickUp" && anim.GetBool ("Full") == false) {
+			other.gameObject.SetActive (false);
+			anim.SetBool("Full", true);
+		}
+		if (other.gameObject.tag == "DropSpot" && anim.GetBool ("Full") == true) {
+			anim.SetBool ("Full", false);	
+		}
 	}
-	void FlipV() {
-		facingUp = !facingUp;
-		Vector3 theScale = transform.localScale;
-		theScale.x*=-1;
-		transform.localScale = theScale;
-	}*/
-	// Update is called once per frames
+
 	void Update () {
 	
 	}
