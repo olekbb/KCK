@@ -1,0 +1,68 @@
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\8-48.exe.config
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\8-48.exe
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\8-48.pdb
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\NAudio.dll
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\NAudio.xml
+\\files\students\s396393\Desktop\8-48\8-48\obj\Debug\8-48.csprojResolveAssemblyReference.cache
+\\files\students\s396393\Desktop\8-48\8-48\obj\Debug\_8_48.Form1.resources
+\\files\students\s396393\Desktop\8-48\8-48\obj\Debug\_8_48.Properties.Resources.resources
+\\files\students\s396393\Desktop\8-48\8-48\obj\Debug\8-48.csproj.GenerateResource.Cache
+\\files\students\s396393\Desktop\8-48\8-48\obj\Debug\8-48.exe
+\\files\students\s396393\Desktop\8-48\8-48\obj\Debug\8-48.pdb
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\CUETools.Codecs.FLAKE.dll
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\CUETools.Codecs.FLAKE.pdb
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\CUETools.Codecs.pdb
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\Newtonsoft.Json.dll
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\8-48.exe.config
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\obj\Debug\8-48.exe
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\obj\Debug\8-48.pdb
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\8-48.exe
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\8-48.pdb
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\CUETools.Codecs.FLAKE.dll
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\NAudio.dll
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\CUETools.Codecs.FLAKE.pdb
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\CUETools.Codecs.pdb
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\NAudio.xml
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\obj\Debug\8-48.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\obj\Debug\_8_48.Form1.resources
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\obj\Debug\_8_48.Properties.Resources.resources
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\obj\Debug\8-48.csproj.GenerateResource.Cache
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\8-48.exe.config
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\obj\Debug\8-48.exe
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\obj\Debug\8-48.pdb
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\8-48.exe
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\8-48.pdb
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\CUETools.Codecs.FLAKE.dll
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\NAudio.dll
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\Newtonsoft.Json.dll
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\CUETools.Codecs.FLAKE.pdb
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\CUETools.Codecs.pdb
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\NAudio.xml
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\Newtonsoft.Json.xml
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\obj\Debug\8-48.csprojResolveAssemblyReference.cache
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\obj\Debug\_8_48.Form1.resources
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\obj\Debug\_8_48.Properties.Resources.resources
+\\files\students\s396393\Desktop\NOEW\8-48\8-48\obj\Debug\8-48.csproj.GenerateResource.Cache
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\8-48.exe.config
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\obj\Debug\8-48.exe
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\obj\Debug\8-48.pdb
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\8-48.exe
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\8-48.pdb
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\CUETools.Codecs.FLAKE.dll
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\NAudio.dll
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\CUETools.Codecs.FLAKE.pdb
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\CUETools.Codecs.pdb
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\NAudio.xml
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\bin\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\obj\Debug\8-48.csprojResolveAssemblyReference.cache
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\obj\Debug\_8_48.Form1.resources
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\obj\Debug\_8_48.Properties.Resources.resources
+C:\Users\aleks_000\Desktop\KCKC\8-48\8-48\obj\Debug\8-48.csproj.GenerateResource.Cache

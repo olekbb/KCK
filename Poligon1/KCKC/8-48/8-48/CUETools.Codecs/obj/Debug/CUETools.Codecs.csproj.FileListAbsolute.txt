@@ -1,0 +1,15 @@
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\bin\Debug\CUETools.Codecs.dll
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\bin\Debug\CUETools.Codecs.pdb
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\CUETools.Codecs\obj\Debug\CUETools.Codecs.csprojResolveAssemblyReference.cache
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\CUETools.Codecs\obj\Debug\CUETools.Codecs.dll
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\CUETools.Codecs\obj\Debug\CUETools.Codecs.pdb
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\CUETools.Codecs.dll
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\CUETools.Codecs.pdb
+\\files\students\s396393\Desktop\8-48\8-48\CUETools.Codecs\obj\Debug\CUETools.Codecs.csprojResolveAssemblyReference.cache
+\\files\students\s396393\Desktop\8-48\8-48\CUETools.Codecs\obj\Debug\CUETools.Codecs.dll
+\\files\students\s396393\Desktop\8-48\8-48\CUETools.Codecs\obj\Debug\CUETools.Codecs.pdb
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\CUETools.Codecs.dll
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\CUETools.Codecs.pdb
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\CUETools.Codecs\obj\Debug\CUETools.Codecs.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\CUETools.Codecs\obj\Debug\CUETools.Codecs.dll
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\CUETools.Codecs\obj\Debug\CUETools.Codecs.pdb

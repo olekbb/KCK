@@ -1,0 +1,30 @@
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\bin\Debug\plugins\CUETools.Codecs.FLAKE.dll
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\bin\Debug\plugins\CUETools.Codecs.FLAKE.pdb
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\bin\Debug\plugins\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.csprojResolveAssemblyReference.cache
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.Properties.Resources.resources
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.Properties.Resources.ru-RU.resources
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.csproj.GenerateResource.Cache
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\CUETools.Codecs.FLAKE\obj\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.dll
+\\files\students\s396393\Desktop\josephcooney-cloudspeech-8619cf699541\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.pdb
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\plugins\CUETools.Codecs.FLAKE.dll
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\plugins\CUETools.Codecs.FLAKE.pdb
+\\files\students\s396393\Desktop\8-48\8-48\bin\Debug\plugins\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+\\files\students\s396393\Desktop\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.csprojResolveAssemblyReference.cache
+\\files\students\s396393\Desktop\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.Properties.Resources.resources
+\\files\students\s396393\Desktop\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.Properties.Resources.ru-RU.resources
+\\files\students\s396393\Desktop\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.csproj.GenerateResource.Cache
+\\files\students\s396393\Desktop\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+\\files\students\s396393\Desktop\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.dll
+\\files\students\s396393\Desktop\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.pdb
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\plugins\CUETools.Codecs.FLAKE.dll
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\plugins\CUETools.Codecs.FLAKE.pdb
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\bin\Debug\plugins\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.Properties.Resources.resources
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.Properties.Resources.ru-RU.resources
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.csproj.GenerateResource.Cache
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\ru-RU\CUETools.Codecs.FLAKE.resources.dll
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.dll
+C:\Users\Maciej\Desktop\KCK PROJEKT\8-48\8-48\CUETools.Codecs.FLAKE\obj\Debug\CUETools.Codecs.FLAKE.pdb
